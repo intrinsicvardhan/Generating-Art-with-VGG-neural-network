@@ -5,6 +5,7 @@ This is a python script that demonstrates how to use TensorFlow and Keras to tra
 **Python 3.x**
 **TensorFlow 2.x**
 **Keras 2.x**
+**VGG Convolutional Neural Network: https://www.kaggle.com/datasets/keras/vgg19**
 
 ## Installation 
 **1. Clone the repository:**
