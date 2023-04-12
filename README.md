@@ -23,7 +23,7 @@ This is a python script that demonstrates how to use TensorFlow and Keras to tra
 ## Contact: 
 **For any more information please contact the following contributors to this project:** 
 1. Aaditya Vardhan: intrinsicvardhan@gmail.com
-2. Shubham Gandhi: sgandhi_be21@thapar.edu
+2. Shubham Gandhi: shubhamgandhi1002@gmail.com
 
 
 
