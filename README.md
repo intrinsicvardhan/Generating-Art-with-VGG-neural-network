@@ -32,6 +32,6 @@ This is a python script that demonstrates how to use TensorFlow and Keras to tra
 1. Aaditya Vardhan: intrinsicvardhan@gmail.com
 2. Shubham Gandhi: shubhamgandhi1002@gmail.com
 3. Rahul Divi: rdivi297@gmail.com
-
+4. Aryan Raghuwanshi: araghuwanshi_be21@thapar.edu
 
 
